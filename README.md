@@ -1,117 +1,126 @@
-<h1 align="center">Hi 👋, I'm Asad</h1>
-<h3 align="center">🚀 DevOps Engineer from Pakistan 🇵🇰</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70a5fd&height=200&section=header&text=Asad%20Bashir&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20Infrastructure%20%7C%20Pakistan%20%F0%9F%87%B5%F0%9F%87%B0&descAlignY=60&descSize=18"/>
 
 ---
 
-- 🔭 Currently working as a **DevOps Engineer at CyberoidTech** — building and maintaining real production infrastructure
-- 🌱 Hands-on with **Kubernetes, Helm, ArgoCD, Vault, Terraform, Ansible, AWS, Prometheus & Grafana**
-- 👯 Open to collaborate on **DevOps, Cloud Infrastructure, and CI/CD projects**
-- 📫 Reach me at **asadbashir2229526@gmail.com**
+## 👨‍💻 About Me
+
+- 🔭 **DevOps Engineer @ CyberoidTech** — building and maintaining real production infrastructure
+- 🚀 Working hands-on with **Kubernetes, Helm, ArgoCD, Vault, Terraform, Ansible, AWS**
+- 📊 Observability with **Prometheus, Grafana, Loki, Sensu**
+- 🔐 Passionate about **security-first infrastructure, GitOps, and full automation**
+- 📫 Reach me: **asadbashir2229526@gmail.com**
 - 🌍 Portfolio: **[committodeploy.dev](https://committodeploy.dev/)**
-- ⚡ Fun fact: *I automate everything I touch — if I do it twice, I script it.*
+- ⚡ *If I do it twice, I script it.*
 
 ---
 
-### 🌐 Connect with me:
+## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/asad-bashir-772b73299" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
-</a>
-<a href="https://github.com/asadbashir7755" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="40" width="40" />
-</a>
-<a href="https://www.instagram.com/code_with_asad?igsh=eGxtMnVmazloMHp2&utm_source=qr" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="40" width="40" />
-</a>
-<a href="mailto:asadbashir2229526@gmail.com">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" height="40" width="40" />
-</a>
+  <a href="https://www.linkedin.com/in/asad-bashir-772b73299" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/asadbashir7755" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:asadbashir2229526@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/code_with_asad" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://committodeploy.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🧠 Technologies and Tools:
+## 🛠️ Tech Stack
 
-<p align="left">
+**Infrastructure & Cloud**
 
-<!-- Linux & Shell -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<!-- IaC & Config -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40"/>
+**Containers & Orchestration**
 
-<!-- Containers & Orchestration -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 
-<!-- Badges for tools not in devicons -->
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" height="30"/>
-<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD" height="30"/>
-<img src="https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black" alt="Vault" height="30"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" height="30"/>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" height="30"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" height="30"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" height="30"/>
+**Security & Secrets**
 
-<!-- Git & Dev stack -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
+**Observability**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F5A800?style=for-the-badge&logo=grafana&logoColor=white)
+
+**Scripting & Dev**
+
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=asadbashir7755&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asadbashir7755&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Asad's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=asadbashir7755&theme=tokyonight&hide_border=true" alt="Asad's Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadbashir7755&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asadbashir7755&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </p>
 
 ---
 
-### 🚀 Featured Projects:
+## 🚀 Featured Projects
 
-#### ☁️ DevOps & Cloud Infrastructure
+### ☁️ DevOps & Cloud Infrastructure
 
-🛒 **[Shopix — Production AWS Infrastructure](https://github.com/asadbashir7755/Shopix_awscompleteproject)**
+**🛒 [Shopix — Production AWS Infrastructure](https://github.com/asadbashir7755/Shopix_awscompleteproject)**
 
 > Architected and deployed a secure, production-ready infrastructure for Shopix — a full-stack ecommerce platform on AWS. Not a tutorial. Not a demo. A real setup built the way it should be done.
 
-- 🏗️ Custom VPC with full network isolation — ALB + NAT in public, EC2 in private subnets, RDS with zero public exposure, Multi-AZ across us-east-1
-- 🔐 Zero static AWS credentials — OIDC-based GitHub Actions auth, EC2 via SSM only (no open SSH ports), least-privilege security groups at every layer
-- ⚙️ Git push → Docker build → ECR push → SSM deploy to both private servers — full deployment under 3 minutes, zero human intervention
-- 📈 Coming next: Auto Scaling Groups, Snyk + Trivy scanning, HashiCorp Vault, Prometheus + Grafana
+| Layer | What was built |
+|---|---|
+| 🏗️ Network | Custom VPC · ALB + NAT in public · EC2 in private subnets · RDS zero public exposure · Multi-AZ us-east-1 |
+| 🔐 Security | Zero static credentials · OIDC GitHub Actions auth · EC2 via SSM only · Least-privilege security groups |
+| ⚙️ Pipeline | Git push → Docker build → ECR push → SSM deploy → Live in under 3 minutes |
+| 📈 Coming | Auto Scaling · Snyk + Trivy scanning · HashiCorp Vault · Prometheus + Grafana |
 
 ---
 
-#### 🧱 Full-Stack Applications
+### 🧱 Full-Stack Applications
 
-🏠 **[Ultimate Platform for Furnished Home Rentals](https://github.com/asadbashir7755/FurnishedHomeRentals)**
-> MERN stack platform with search & filtering, real-time availability, secure payments, admin panel, and AI assistant — Final Year Project
+| Project | Description |
+|---|---|
+| 🏠 [Furnished Home Rentals](https://github.com/asadbashir7755/FurnishedHomeRentals) | MERN platform — search, real-time availability, payments, admin panel, AI assistant (FYP) |
+| 🛒 [E-Commerce MERN App](https://github.com/asadbashir7755/Ecommerce-MERN) | Full-stack ecommerce built with the MERN stack |
+| 🌐 [Portfolio](https://github.com/asadbashir7755/Portfolio) | Live at [committodeploy.dev](https://committodeploy.dev/) |
 
-🛒 **[E-Commerce MERN App](https://github.com/asadbashir7755/Ecommerce-MERN)**
-> Full-stack ecommerce application built with the MERN stack
-
-🌐 **[Portfolio Website](https://github.com/asadbashir7755/Portfolio)**
-> Personal portfolio — live at [committodeploy.dev](https://committodeploy.dev/)
-
-⚙️ **[More on GitHub →](https://github.com/asadbashir7755?tab=repositories)**
+⚙️ **[All Repositories →](https://github.com/asadbashir7755?tab=repositories)**
 
 ---
 
-⭐ **Thanks for visiting!**
-💬 *"Secure by default. Automated end to end. No shortcuts."*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,50:1a1b27,100:0d1117&height=120&section=footer"/>
+
+<p align="center">
+  <i>"Secure by default. Automated end to end. No shortcuts."</i>
+</p>
