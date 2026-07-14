@@ -1,13 +1,27 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70a5fd&height=220&section=header&text=Asad%20Bashir&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20DevSecOps%20Engineer%20%7C%20Cloud%20Infrastructure%20%7C%20Pakistan%20%F0%9F%87%B5%F0%9F%87%B0&descAlignY=58&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70a5fd&height=220&section=header&text=Asad%20Bashir&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20DevSecOps%20%7C%20Cloud%20Infrastructure%20%7C%20Pakistan%20%F0%9F%87%B5%F0%9F%87%B0&descAlignY=58&descSize=16"/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/asad-bashir-772b73299"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/asadbashir7755"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:asadbashir2229526@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/code_with_asad"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://committodeploy.dev/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=asadbashir7755&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/asadbashir7755?label=Followers&style=social" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🔭 **DevOps & DevSecOps Engineer @ CyberoidTech** — building and maintaining real production infrastructure
-- ☁️ Deep hands-on with **AWS** — EC2, ECS Fargate, ALB, VPC, RDS, S3, IAM, ECR, SSM, WAF, KMS, CloudWatch, Route 53
-- 🚀 Working with **Kubernetes, Helm, ArgoCD, Vault, Terraform, Ansible**
+- ☁️ Deep hands-on with **AWS** — ECS Fargate, ALB, VPC, RDS, S3, IAM, ECR, WAF, KMS, CloudWatch, Route 53
+- 🚀 Working with **Kubernetes, Helm, ArgoCD GitOps, Vault, Terraform**
 - 🔐 Security-first mindset — **OIDC auth, zero static credentials, least-privilege IAM, WAF, KMS encryption**
+- 🛡️ Resolved **CVE-2025-1974 (IngressNightmare, CVSS 9.8)** in production Kubernetes — zero downtime
 - 📊 Observability with **Prometheus, Grafana, Loki, Sensu**
 - 🤖 Automating everything with **GitHub Actions CI/CD pipelines**
 - 📫 Reach me: **asadbashir2229526@gmail.com**
@@ -16,46 +30,24 @@
 
 ---
 
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/asad-bashir-772b73299" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/asadbashir7755" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:asadbashir2229526@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/code_with_asad" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://committodeploy.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## 🛠️ Tech Stack
 
 **☁️ AWS Services**
 
-![Amazon EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![Amazon ECS](https://img.shields.io/badge/ECS_Fargate-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white)
-![Amazon VPC](https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Amazon RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![Amazon IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Amazon ECR](https://img.shields.io/badge/ECR-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![AWS SSM](https://img.shields.io/badge/SSM-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![AWS WAF](https://img.shields.io/badge/WAF-DD344C?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![AWS KMS](https://img.shields.io/badge/KMS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Amazon CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
-![Amazon Route 53](https://img.shields.io/badge/Route_53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white)
-![AWS ALB](https://img.shields.io/badge/ALB-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![AWS NAT](https://img.shields.io/badge/NAT_Gateway-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![ECS](https://img.shields.io/badge/ECS_Fargate-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![ECR](https://img.shields.io/badge/ECR-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![WAF](https://img.shields.io/badge/WAF-DD344C?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![KMS](https://img.shields.io/badge/KMS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+![Route53](https://img.shields.io/badge/Route_53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white)
+![ALB](https://img.shields.io/badge/ALB-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![SSM](https://img.shields.io/badge/SSM-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![NAT](https://img.shields.io/badge/NAT_Gateway-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 **🏗️ Infrastructure as Code & Config**
 
@@ -71,11 +63,12 @@
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 
-**🔐 Security & Secrets (DevSecOps)**
+**🔐 Security & Secrets**
 
-![HashiCorp Vault](https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
+![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white)
 ![OIDC](https://img.shields.io/badge/OIDC_Auth-000000?style=for-the-badge&logo=openid&logoColor=white)
 
 **📊 Observability & Monitoring**
@@ -95,18 +88,40 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎯 Certifications
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=asadbashir7755&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-Certified_✅-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_Solutions_Architect_Associate-In_Progress_🔄-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
 </p>
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
+<!-- ✅ github-stats-extended.vercel.app — official active successor to the dead github-readme-stats.vercel.app -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asadbashir7755&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=asadbashir7755&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=asadbashir7755&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<!-- ✅ streak-stats.demolab.com — correct working URL (herokuapp was decommissioned) -->
+<p align="center">
+  <img width="65%" src="https://streak-stats.demolab.com/?user=asadbashir7755&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- ✅ github-profile-summary-cards — reliable alternative for contribution overview -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asadbashir7755&theme=tokyonight" width="100%"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<!-- ✅ github-profile-trophy.vercel.app — still working -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=asadbashir7755&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
 </p>
 
 ---
@@ -117,14 +132,14 @@
 
 **🛒 [Shopix — Production AWS Infrastructure](https://github.com/asadbashir7755/Shopix_awscompleteproject)**
 
-> Architected and deployed a secure, production-ready infrastructure for Shopix — a full-stack ecommerce platform on AWS. Not a tutorial. Not a demo. A real setup built the way it should be done.
+> Architected and deployed a secure, production-ready infrastructure for Shopix — a full-stack ecommerce platform on AWS. Not a tutorial. Not a demo. Built the way it should be done.
 
 | Layer | What was built |
 |---|---|
 | 🏗️ Network | Custom VPC · Public ALB + NAT Gateway · EC2 in private subnets · RDS MySQL zero public exposure · Multi-AZ us-east-1 |
-| 🔐 Security | Zero static AWS credentials · OIDC-based GitHub Actions auth · EC2 access via SSM only (no SSH) · Least-privilege security groups & IAM |
+| 🔐 Security | Zero static AWS credentials · OIDC-based GitHub Actions auth · EC2 access via SSM only (no SSH) · Least-privilege IAM |
 | ⚙️ Pipeline | Git push → Docker build → ECR push → SSM deploy to private EC2 → Live in under 3 minutes |
-| 📈 Coming | Auto Scaling Groups · Snyk + Trivy scanning · HashiCorp Vault · Prometheus + Grafana |
+| 📈 Planned | Auto Scaling Groups · Snyk + Trivy scanning · HashiCorp Vault · Prometheus + Grafana |
 
 ---
 
@@ -137,15 +152,6 @@
 | 🌐 [Portfolio](https://github.com/asadbashir7755/Portfolio) | Live at [committodeploy.dev](https://committodeploy.dev/) |
 
 ⚙️ **[All Repositories →](https://github.com/asadbashir7755?tab=repositories)**
-
----
-
-## 🎯 Certifications
-
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-Certified-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_Solutions_Architect_Associate-In_Progress-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-</p>
 
 ---
 
