@@ -110,18 +110,19 @@
   <img width="65%" src="https://streak-stats.demolab.com/?user=asadbashir7755&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- ✅ github-profile-summary-cards — reliable alternative for contribution overview -->
+<!-- ✅ profile-summary-cards — two lighter cards load more reliably than the full-width one -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asadbashir7755&theme=tokyonight" width="100%"/>
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asadbashir7755&theme=tokyonight"/>
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asadbashir7755&theme=tokyonight&utcOffset=5"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<!-- ✅ github-profile-trophy.vercel.app — still working -->
+<!-- ✅ using github-trophies.vercel.app mirror — main instance is rate-limited -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=asadbashir7755&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+  <img src="https://github-trophies.vercel.app/?username=asadbashir7755&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 ---
