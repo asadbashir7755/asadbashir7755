@@ -84,6 +84,14 @@ CloudFront and ALB infrastructure.
 
 ### Infrastructure and CI/CD
 
+**[stockflow](https://github.com/asadbashir7755/stockflow)**
+Multi-tenant inventory and order management for a B2B wholesaler. Stock is an
+append-only ledger, orders reserve inventory before they ship, and confirming an
+order takes row locks in a fixed order so two of them cannot oversell the same
+stock. NestJS and Next.js on ECS Fargate behind an ALB with WAF, Postgres and
+Redis in private subnets, all provisioned by Terraform and deployed through
+GitHub Actions with OIDC.
+
 **[shopix-aws-production](https://github.com/asadbashir7755/shopix-aws-production)**
 A full stack ecommerce platform on a custom AWS VPC. ALB across two availability
 zones, app servers in private subnets, RDS MySQL with no public exposure, NAT
